@@ -17,10 +17,14 @@
 
 ### Connect
 <a href="https://www.linkedin.com/in/moin-uddin-b83b30215/">
-  <img align="left" alt="jamilxt's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="moin Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> <a href="https://github.com/MoinUddin005">
-  <img align="left" alt="jamilxt's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a> <br>
+  <img align="left" alt="moin Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+</a> <a href="https://www.facebook.com/moinuddin.niloy">
+  <img align="left" alt="moin Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" />
+</a>
+<br>
 
 ### Languages & Tools
 
@@ -34,6 +38,12 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png"></code>
 <code><img height="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
+<code><img height="20" src="https://www.freelogovectors.net/wp-content/uploads/2021/09/adobe-photoshop-logo-freelogovectors.net_.png"></code>
+<code><img height="20" src="https://w7.pngwing.com/pngs/528/113/png-transparent-ai-letter-illustration-brand-orange-logo-illustrator-orange-logo-adobe.png"></code>
+<code><img height="20" src="https://miro.medium.com/max/600/1*5ojRlFULRD7LJGSAFlzn4g.jpeg"></code>
+
+
+
 
 
 
