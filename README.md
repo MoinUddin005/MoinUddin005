@@ -1,12 +1,11 @@
-### Hi there, I'm MOIN -- [Portfolio](https://moinuddin005.github.io/?fbclid=IwAR0idYyZzQ33CB9jPRSALs2YO1OBaY_NYzcqnv4msHl7LXs7OQXwCdeF--8)
+<h1 align="center">Hi 👋, I'm Moin Uddin</h1>
+<h3 align="center">A passionate software engineer from Bangladesh</h3>
 
 <img src="https://komarev.com/ghpvc/?username=MoinUddin005&label=Views&color=a4c639&style=plastic" alt="MoinUddin005" />
 
 
 
-## I'm a Frontend Developer from Bangladesh!!
-
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Frontend & Backend 🤣
 
 - 👯 I’m looking to collaborate on Open Source Projects.
 
