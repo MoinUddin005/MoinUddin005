@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on Open Source Projects.
 
-- 🌱 I’m currently learning **node.js & mongodb**
+- 🌱 I’m currently learning **Next.js & angular**
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/moin-uddin-b83b30215/)
 
